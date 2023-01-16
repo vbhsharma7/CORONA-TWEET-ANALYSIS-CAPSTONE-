@@ -1,5 +1,5 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0245909.g002&type=large
+ https://doi.org/10.1371/journal.pone.0245909.g002
 
 
 ## 🎯Objective:
