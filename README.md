@@ -1,6 +1,5 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
- https://doi.org/10.1371/journal.pone.0245909.g002
-
+![image](https://user-images.githubusercontent.com/107554669/212645333-1e3e3216-b14e-4363-9743-a095b81171d2.png)
 
 ## 🎯Objective:
 
