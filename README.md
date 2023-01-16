@@ -1,6 +1,5 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
 
-https://drive.google.com/file/d/17e5Rapiq1-NYY8KXhnf-HPNC9UA88hiS/view?usp=share_link
 
 
 ## 🎯Objective:
