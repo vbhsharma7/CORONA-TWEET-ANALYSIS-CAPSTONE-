@@ -1,14 +1,19 @@
+	
+	for Training Data
+	
 	Model	                                     CountVector	TfidfVector
 0	Logistic Regression with GridserachCV	        0.782880	0.773405
-1	Decision Tree Classifier	                    0.691381	0.604568
+1	Decision Tree Classifier	                0.691381	0.604568
 2	XG-Boost Classifier                         	0.600611	0.605957
-3	K-Nearest-Neighbours Classifier	              0.410350	0.375364
+3	K-Nearest-Neighbours Classifier	                0.410350	0.375364
 4	Support-Vector-Machine Classifier           	0.760771	0.765792
 
 
+         for Test data
+
 Model	                                         CountVector	TfidfVector
 0	Logistic Regression with GridserachCV	        0.782880	0.773405
-1	Decision Tree Classifier	                    0.691381	0.604568
-2	XG-Boost Classifier	                          0.600611	0.605957
-3	K-Nearest-Neighbours Classifier	              0.410350	0.375364
-4	Support-Vector-Machine Classifier	            0.760771	0.765792
+1	Decision Tree Classifier	                0.691381	0.604568
+2	XG-Boost Classifier	                        0.600611	0.605957
+3	K-Nearest-Neighbours Classifier	                0.410350	0.375364
+4	Support-Vector-Machine Classifier	        0.760771	0.765792
