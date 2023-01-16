@@ -1,5 +1,5 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
-## Objective
+## 🎯Objective
 The CoVid-19 pandemic has shaken the very foundation of society wherein people were forced to live inside their houses because of the lockdown being imposed and also the livelihood of almost every section of the society was impacted.
 The objective of our analysis revolved around knowing the sentiments of people from their tweets on Twitter as Twitter is one of the prime means of expression over social media.
 
@@ -9,7 +9,7 @@ The objective of our analysis revolved around knowing the sentiments of people f
 * Model Preprocessing
 * Model Training
 
-##  ALGORITHMS USED:
+## 📘 ALGORITHMS USED:
 * Logistic Regression with Grid Search CV
 * Decision Tree Classifier
 * XG Boost
@@ -17,7 +17,7 @@ The objective of our analysis revolved around knowing the sentiments of people f
 * SVM Classifier for both Count Vector and TF ID Vectorization techniques.
 
 
-## PROBLEM FACED:
+## 📋PROBLEM FACED:
 * Text preprocessing.
 * Vectorization.
 * Model Training and performance improvement
@@ -31,11 +31,11 @@ The objective of our analysis revolved around knowing the sentiments of people f
 * In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
 
 
-## CREDITS:
-Gaurav Malakar | Anup A. Jambulkar | Ankit Walde | Anil Bhatt | Vibhu Sharma
+## 📜CREDITS:
+ Vibhu Sharma | Anup A. Jambulkar | Ankit Walde | Anil Bhatt | Gaurav Malakar
 
 
-##  References
+## 📚 References
 Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
 Gradient Boosting Documentation - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
