@@ -1,5 +1,10 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
-## 🎯Objective
+
+https://drive.google.com/file/d/17e5Rapiq1-NYY8KXhnf-HPNC9UA88hiS/view?usp=share_link
+
+
+## 🎯Objective:
+
 The CoVid-19 pandemic has shaken the very foundation of society wherein people were forced to live inside their houses because of the lockdown being imposed and also the livelihood of almost every section of the society was impacted.
 The objective of our analysis revolved around knowing the sentiments of people from their tweets on Twitter as Twitter is one of the prime means of expression over social media.
 
