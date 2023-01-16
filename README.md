@@ -1,5 +1,5 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
-![image](https://user-images.githubusercontent.com/107554669/212645694-71f897cb-2714-4ced-9308-8addf72bc8d5.png)
+![image](https://user-images.githubusercontent.com/107554669/212645897-4e6c04a3-d97a-40d8-b85b-c204c03e5e55.png)
 
 ## 🎯Objective:
 
