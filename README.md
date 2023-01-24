@@ -7,7 +7,7 @@
 The CoVid-19 pandemic has shaken the very foundation of society wherein people were forced to live inside their houses because of the lockdown being imposed and also the livelihood of almost every section of the society was impacted.
 The objective of our analysis revolved around knowing the sentiments of people from their tweets on Twitter as Twitter is one of the prime means of expression over social media.
 
-## APPROACH:
+## 📋APPROACH:
 * Text Preprocessing
 * Exploratory Data Analysis
 * Model Preprocessing
@@ -27,7 +27,7 @@ The objective of our analysis revolved around knowing the sentiments of people f
 * Model Training and performance improvement
 
 
-## CONCLUSION:
+## 📘CONCLUSION:
 * We conclude that the machine is generating the best results for the Logistic Regression with Grid Search CV (count vectorizer) model with an Accuracy of 78.28% followed by the Logistic Regression with Grid Search CV (TF/ID vectorizer) model with an Accuracy of 77.43%.
 * Also, we observed that no overfitting is seen for the data, and we can deploy this model.
 * Even being in the unprecedented situation of CoVid-19, people's positive sentiments outnumbered negative sentiments.
