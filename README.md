@@ -1,4 +1,4 @@
-# CORONA-TWEET-ANALYSIS-CAPSTONE-
+# COVID-19 TWEETS SENTIMENT ANALYSIS CAPSTONE
 ![image](https://user-images.githubusercontent.com/107554669/214302232-b69ae3d3-04b4-433d-8eee-537a91cf05b5.png)
 
 
