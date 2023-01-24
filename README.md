@@ -1,5 +1,6 @@
 # CORONA-TWEET-ANALYSIS-CAPSTONE-
-![image](https://user-images.githubusercontent.com/107554669/212645897-4e6c04a3-d97a-40d8-b85b-c204c03e5e55.png)
+![image](https://user-images.githubusercontent.com/107554669/214302232-b69ae3d3-04b4-433d-8eee-537a91cf05b5.png)
+
 
 ## 🎯Objective:
 
@@ -35,7 +36,15 @@ The objective of our analysis revolved around knowing the sentiments of people f
 
 
 ## 📜CREDITS:
- Vibhu Sharma | Anup A. Jambulkar | Ankit Walde | Anil Bhatt | Gaurav Malakar
+ 
+ Vibhu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbhsharma7/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbhsharma7)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vbhsharma7)
 
 
 ## 📚 References
