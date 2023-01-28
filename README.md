@@ -1,6 +1,8 @@
 # COVID-19 TWEETS SENTIMENT ANALYSIS CAPSTONE
 ![image](https://user-images.githubusercontent.com/107554669/214302232-b69ae3d3-04b4-433d-8eee-537a91cf05b5.png)
 
+## Problem Statement
+This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then.
 
 ## 🎯Objective:
 
