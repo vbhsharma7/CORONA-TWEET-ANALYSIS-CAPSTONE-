@@ -14,6 +14,31 @@ The objective of our analysis revolved around knowing the sentiments of people f
 * Exploratory Data Analysis
 * Model Preprocessing
 * Model Training
+* 
+## 📘 Word Cloud:
+* Neutral
+* Postive
+* Negative
+
+![1](https://user-images.githubusercontent.com/107554669/235931232-676a5272-67bf-4b63-9b2d-76fb3bbc10d8.png)
+
+
+
+![2](https://user-images.githubusercontent.com/107554669/235930607-5ef551e3-4d87-49e7-a106-294f49d1065a.png)
+
+
+![3](https://user-images.githubusercontent.com/107554669/235930672-65716a6b-b57e-4397-8ee4-4e26af74c917.png)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📘 ALGORITHMS USED:
 * Logistic Regression with Grid Search CV
@@ -40,9 +65,6 @@ The objective of our analysis revolved around knowing the sentiments of people f
 ## 📜CREDITS:
  
  Vibhu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbhsharma7/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbhsharma7)
